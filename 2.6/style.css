@@ -1,0 +1,10 @@
+.lista{
+    background-color: blue;
+    color: white;
+}
+
+.listaSelecionada{
+    background-color: red;
+    color: white;
+}
+
